@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a373383c-be6b-4fa2-bce6-114e4c9b6c99"
+      }
+    },
+    "owner": "parshotamrughani"
   }
 }
